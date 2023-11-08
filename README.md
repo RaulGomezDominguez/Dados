@@ -6,6 +6,7 @@ Licenciatura Ingeniería en Sistemas Computacionales 6to “A”
 Maestro: Ing. LUIS FERNANDO VILLAFAÑA REJON
 Asignatura: Ingeniería de Software  
 Fecha: 07/Noviembre/2023
+
 El código C# que he proporcionado es un programa simple que simula el lanzamiento de un dado y registra las frecuencias de las caras obtenidas, 
 ya que en seguida se mostrará como maneja la ambigüedad en este código, la ambigüedad de este sistema 
 es en la entrada del usuario en la entrada del usuario de la siguiente manera en este caso se solicita al usuario que 
