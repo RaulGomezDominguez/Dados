@@ -1,5 +1,5 @@
 # Dados
-Título del Proyecto: Ambigüedad 
+Título del Proyecto: Ambigüedad
 Alumno: Raúl Gómez Domínguez 
 Universidad del Sur 
 Licenciatura Ingeniería en Sistemas Computacionales 6to “A” 
